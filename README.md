@@ -1,4 +1,5 @@
 # Bind-App
+# Prototype
  
 ![Homepage](https://user-images.githubusercontent.com/69032140/168463129-3358d37f-cf03-4f2e-91e5-d79a9d5baef8.png)
 ![Log in Window](https://user-images.githubusercontent.com/69032140/168463131-305a7340-7ddf-4a4c-a23a-41456bde9aa1.png)
